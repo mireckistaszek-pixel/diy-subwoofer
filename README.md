@@ -64,7 +64,8 @@ Mono amplifier is required; subwoofer cannot run directly from a PC.
 
 
 🛠 Build Instructions
-
+1.saw everything out of wood 
+-----}
 
 
 
