@@ -64,9 +64,9 @@ Mono amplifier is required; subwoofer cannot run directly from a PC.
 
 
 🛠 Build Instructions
-1. Cut the MDF Panels
 
-You will need:
+
+
 
 Front panel
 Back panel
@@ -74,7 +74,7 @@ Top & bottom panels
 Side panels
 Internal wall for slot port
 
-Tip: Ask your local hardware store to cut MDF precisely.
+
 
 2. Assemble the Box
 Apply wood glue to all edges
@@ -86,7 +86,7 @@ Ensure correct port length (approx. 40–60 cm depending on tuning)
 Do NOT block airflow
 4. Cut Subwoofer Hole
 Use a jigsaw or router
-Make sure the hole fits tightly
+
 Mount the subwoofer securely with screws
 5. Wiring
 Connect amplifier output → subwoofer terminals
