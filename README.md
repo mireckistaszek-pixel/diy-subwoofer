@@ -50,6 +50,7 @@ TOTAL 372 usd
 <img width="555" height="167" alt="image" src="https://github.com/user-attachments/assets/838857a9-7868-4f45-8699-a99517cd0bf4" />
 <img width="551" height="514" alt="image" src="https://github.com/user-attachments/assets/41a0d69c-11f7-4e22-9642-8589d081e016" />
 <img width="696" height="399" alt="image" src="https://github.com/user-attachments/assets/47f3578f-ebbf-4722-aa9d-44a3292112b9" />
+<img width="744" height="536" alt="image" src="https://github.com/user-attachments/assets/cb5e714b-aac1-49a9-9cc8-b36f45062cd9" />
 
 
 
