@@ -40,9 +40,9 @@ Subwoofer	150 usd
 Amplifier	51 usd
 Enclosure Materials	94 usd
 Cables & Connectors	47 usd
-+shipping 20 usd
++shipping 15 usd
 +screws and glue 15 usd
-TOTAL 377 usd
+TOTAL 372 usd
 
 <img width="422" height="277" alt="image" src="https://github.com/user-attachments/assets/8f2a8f59-62db-45eb-bf61-88f413fea6d5" />
 <img width="683" height="624" alt="image" src="https://github.com/user-attachments/assets/f3d037d0-1821-43be-9dd8-7ceee439fcf8" />
