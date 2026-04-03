@@ -11,6 +11,7 @@ Subwoofer	15" Kicker Comp (43C154)	https://www.crutchfield.com/cart/default.aspx
 Amplifier	Fosi Audio M03 Mono Amp	https://pl.aliexpress.com/item/1005001302618102.html?dp=CjwKCAjwspPOBhB9EiwATFbi5MsG1cmveGaX-ZiAxB4XH-2Zu8EdVrOYbM_agTaZPi8wU_G5XNvyURoC1CEQAvD_BwE&isdl=y&aff_fsk=_onIU8Bb&src=ShoparizePL&aff_platform=aff_feeds&aff_short_key=_onIU8Bb&pdp_npi=4%40dis%21PLN%21290.71%21200.59%21%21%21%21%21%40%2112000015636617886%21afff%21%21%21
 Enclosure	DIY MDF 18mm	
 Connection	3.5mm jack → RCA cable	https://allegro.pl/produkt/kabel-ugreen-av102-minijack-3-5-mm-2x-rca-cinch-1-m-e878b9f7-7fe8-4ecf-87f8-7281f51d7527?srsltid=AfmBOopaRz0CAbv2dVeEgWG1e8GYo7ov4cchzvq344aDOKTq_zrSxKD2&offerId=17446299224
+cable https://centrumaudio.pl/zestawy-kabli/10245-stinger-ssk4anl-zestaw-okablowania-20mm2.html
 Screws & Glue	Wood screws + wood glue + silicone	
 📦 Enclosure Design
 Type: Bass Reflex (slot port – side channel)
